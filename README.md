@@ -1,38 +1,28 @@
-# JavaScript Basics in Express
+# JavaScript Basics in Express Project
 
-## Getting started
+A project as part of the Software Engineering Fasttrack course at Manchester Codes. I will use Express to create an API which will take some of functionality of the JavaScript Basics code written at the beginning of the course, and make it accessible to other applications through HTTP.
 
-Ensure your Visual Studio Code application is up to date, and that you have the [ESLint extension](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) installed and enabled.
+## General info
 
-Run the commands below inside your `Projects` folder.
+The purpose of this project is to build upon the following skills and concepts:
 
-```bash
-git clone git@github.com:MCRcodes/javascript-basics-express.git
-cd your-project-folder-name
-npm install
-```
+* Web Servers and Web APIs
+* HTTP Requests and Responses
+* Routing
+* Controller functions
+* Middleware
 
-## Copy over your JavaScript Basics code
+## Technologies
 
-:rotating_light: **Important!**
+* JavaScript
+* Node
+* Node Package Manager
+* Git
+* GitHub
+* ESLint
 
-This exercise makes use of your previous `javascript-basics` code. Copy the files from that project's `src/` folder into a new `lib/` directory in this repository's `src` directory. You should end up with the following file structure in this project:
+## Status
 
-```
-src
-├── app.js
-└── lib
-    ├── arrays.js
-    ├── booleans.js
-    ├── numbers.js
-    ├── objects.js
-    └── strings.js
-```
+Project status: _ongoing_
 
-## Running tests
-
-You can run tests with the `npm test` command.
-
-## Remember: READMEs are important!
-
-When you're finished, be sure to rewrite this one so it's more specific to your project.
+Project created by Jennifer Cant
