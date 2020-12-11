@@ -11,6 +11,7 @@ The purpose of this project is to build upon the following skills and concepts:
 * Routing
 * Controller functions
 * Middleware
+* End to end testing
 
 ## Technologies
 

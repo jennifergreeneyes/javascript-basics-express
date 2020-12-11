@@ -1,4 +1,4 @@
-const sayHello = string => "Hello, " + string + "!";
+const sayHello = string => `Hello, ${string}!`;
 
 const uppercase = string => string.toUpperCase();
 
@@ -16,5 +16,5 @@ module.exports = {
   lowercase,
   countCharacters,
   firstCharacter,
-  firstCharacters
+  firstCharacters,
 };
