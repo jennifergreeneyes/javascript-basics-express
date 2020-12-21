@@ -14,10 +14,13 @@ The purpose of this project is to build upon the following skills and concepts:
 * Retrieving route parameters, query parameters and body parameters from HTTP requests   
 * Controller functions
 * Middleware
+* End-to-end testing
+
 
 ## Languages
 
 * JavaScript
+
 ## Technologies
 
 * Node & Node Package Manager
